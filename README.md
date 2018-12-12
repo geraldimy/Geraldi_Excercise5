@@ -1,3 +1,2 @@
-# Geraldi_Excercise5
-#This is README.md.file
-#it contains description about the project
+#The Project will use Maven Java
+#It will contain some Java Code
